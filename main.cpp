@@ -25,7 +25,7 @@ int main(int argc, char* argv[]){
         vec.push_back(in);
     }
     sort(vec.begin(),vec.end());
-    int total=2-1;
+    int total=1;
     vector<pair<long long int,long long int>> store;
     pair<long long int,long long int> pairTmp=make_pair(0,0);
     for(int i=0;i<K;i++) {
