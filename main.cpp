@@ -13,8 +13,8 @@ Notes: Anything you want to say about your code that will be helpful in the grad
 using namespace std;
 
 int main(int argc, char* argv[]){
-    freopen("input3.txt","r",stdin);
-    freopen("output.txt","w",stdout);
+    //freopen("input3.txt","r",stdin);
+    //freopen("output.txt","w",stdout);
     int N,K;
     cin >>N;
     cin >>K;
